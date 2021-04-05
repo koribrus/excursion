@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: Verdana, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-family: Verdana, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    font-family: Verdana, sans-serif;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+    font-weight: normal;
+}
+h4 {
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+    color: aquamarine;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+footer h3 {
+    text-align: right;
+}
+
+.video {
+    text-align: center;
+}
+
+.image {
+    text-align: center;
+}
